@@ -1,0 +1,6 @@
+*.cfg
+*.ipynb
+*.txt
+*.csv
+*.json
+*.xls*
