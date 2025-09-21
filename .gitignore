@@ -1,6 +1,7 @@
 *.cfg
 *.ipynb
 *.txt
+!requirements.txt
 *.csv
 *.json
 *.xls*
